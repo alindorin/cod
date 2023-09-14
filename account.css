@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+#button1{
+    margin-left: 44%;
+}
+#button2{
+    margin-left: 20px;
+}
+
+#Login, #Register{
+    border: 2px solid black;
+    width: 250px;
+    height: 200px;
+    display: inline-block;
+}
+#Login{
+    margin-left: 150px;
+    visibility: hidden;
+}
+#Register{
+    margin-left: 300px;
+    visibility: hidden;
+}
+
+#delete{
+    margin-left: 530px;
+}
+
+#logout{
+    margin-left: 30px;
+}
